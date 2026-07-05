@@ -1,0 +1,20 @@
+{
+  "fc_barcelona_real_madrid_cf": [
+    {
+      "channel": "beIN Sports 1 HD",
+      "country": "شبكة عربية (MENA)",
+      "satellite": "عرب سات 26E",
+      "frequency": "ضع التردد الصحيح هنا بعد التحقق",
+      "note": "حدّث هذا السطر بالتردد الفعلي قبل كل موسم لأن الترددات تتغير"
+    }
+  ],
+  "liverpool_fc_manchester_city_fc": [
+    {
+      "channel": "SSC 1",
+      "country": "السعودية",
+      "satellite": "عرب سات / نايل سات",
+      "frequency": "ضع التردد الصحيح هنا بعد التحقق",
+      "note": ""
+    }
+  ]
+}

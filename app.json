@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "نتائج المباريات",
+    "slug": "matches-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0B1120"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.wisamfcb.matchesapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0B1120"
+      },
+      "package": "com.wisamfcb.matchesapp"
+    }
+  }
+}
